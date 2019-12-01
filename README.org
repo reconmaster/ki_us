@@ -1,0 +1,54 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: The United States of America
+#+AUTHOR: Andrew M Davis, PhD
+#+EMAIL: reconmaster@matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+FILETAGS: 気, ki, gov, us
+Objective: Form a more perfect Union
+
+#+BEGIN_QUOTE
+I like the dreams of the future better than the history of the past.
+
+Jefferson 先生
+#+END_QUOTE
+* Introduction
+The [[https://en.wikipedia.org/wiki/United_States][United States of America]] is an exceptional example of how
+[[https://en.wikipedia.org/wiki/Mathematical_optimization][optimization]] works on a [[https://en.wikipedia.org/wiki/Nation][national]] scale. With a starting set of
+objectives, constraint functions are then laid out by which the
+[[https://en.wikipedia.org/wiki/Country][country]] is allowed to seek the closest approximation to the optimal
+solution that it can. The [[file:docs/declaration_of_independence.org][Declaration of Independence]], the
+[[file:docs/constitution.org][Constitution]], and the [[file:docs/bill_of_rights.org][Bill of Rights]] define the starting conditions
+with which the USA was set in motion.
+
+However, as those who are familiar with the [[https://en.wikipedia.org/wiki/Art][art]] of optimization, it is
+often advantageous to re-evaluate the initial objectives and
+constraint functions when you find yourself stuck at a local [[https://en.wikipedia.org/wiki/Maxima_and_minima][maximum]].
+As [[https://en.wikipedia.org/wiki/Thomas_Jefferson][Jefferson]] said,
+
+#+begin_quote
+Experience hath shewn, that even under the best forms of government
+those entrusted with power have, in time, and by slow operations,
+perverted it into tyranny.
+#+end_quote
+
+As such, it is important that the foundational documents of a country
+be robust enough to accommodate updates when the [[https://en.wikipedia.org/wiki/Parameter_space][parameter space]]
+evolves new characteristics. The [[file:docs/amendments.org][Amendments]] are an early mechanism by
+which the constraint functions of the nation may be modified.
+
+The danger currently facing the USA is that technology advances at a
+quicker pace than our civil institutions. Unfortunately, the source
+code running America cannot adapt quickly enough to identify and
+remove sources of [[https://en.wikipedia.org/wiki/Bias][bias]] that skew the objective away from [[https://en.wikipedia.org/wiki/Political_egalitarianism][equality]].
+
+Therefore, it may behoove a country such as the USA to deploy modern
+code-development technology to its own source code. In democratizing
+the design of the country's [[https://en.wikipedia.org/wiki/Operating_system][operating system (OS)]], a new version of a
+more perfect Union may arise.
