@@ -10,10 +10,22 @@
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 26.1 (Org mode 9.1.13)
-#+FILETAGS: 気, ki, res
+#+FILETAGS: 気, ki, gov, us, res
 Objective: [[https://en.wikipedia.org/wiki/Resource][resources]]
 * Introduction
-Nothing happens in a vacuum. All external intelligence sources used in
-the research endeavor must be accounted for. This allows the
-influences that affected the experimental design and procedures to be
-traced in future investigative efforts.
+The potential benefit of using open-source technology for the
+improvement of governance has been with this country since its
+inception. The collaborative nature of our foundational documents
+themselves provided the framework that allowed the development of [[https://en.wikipedia.org/wiki/GNU_General_Public_License][GNU]],
+[[https://en.wikipedia.org/wiki/Linux][Linux]], and eventually [[https://en.wikipedia.org/wiki/Git][Git]].
+* Examples
+The use of git in governance has already been anticipated.
+** [[https://blog.abevoelker.com/gitlaw-github-for-laws-and-legal-documents-a-tourniquet-for-american-liberty/][GitLaw]]
+Some good insight.
+** [[https://github.com/nysenate/OpenLegislation][OpenLegislation]]
+An effort by the NY Senate to improves legislative transparency.
+** [[https://github.com/divegeek/utahcode][utahcode]]
+The complete Utah Code.
+* Videos
+** [[https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government#t-1084351][Clay Shirky - How the Internet will (one day) transform government]]
+A good description of how version control can help improve governance.
