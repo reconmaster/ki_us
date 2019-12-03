@@ -5,7 +5,7 @@
 #+OPTIONS: timestamp:t title:t toc:t todo:t |:t
 #+TITLE: resources
 #+AUTHOR: Andrew M Davis, PhD
-#+EMAIL: reconmaster@matrix.org
+#+EMAIL: @reconmaster:matrix.org
 #+LANGUAGE: en
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
@@ -36,7 +36,58 @@ The use of git in governance has already been anticipated.
 ** Videos
 *** [[https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government#t-1084351][Clay Shirky - How the Internet will (one day) transform government]]
  A good description of how version control can help improve governance.
-* TODO Government
+* TODO [[https://en.wikipedia.org/wiki/Education][Education]]
+#+begin_quote
+Only the educated are free.
+
+Epictetus 先生
+#+end_quote
+This is a more foundational level of the source code.
+** TODO K-12
+By introducing children to the workings of open-source technology and
+the civil platform, the future [[https://en.wikipedia.org/wiki/Generation][generation]] will become familiar with
+the computational tools needed to participate in a knowledge-based
+economy as well as the tools need to participate in civil discourse.
+
+- [[https://www.teachforamerica.org/][Teach for America]]
+** TODO University
+These institutions have collected a lot of rarefied thinking
+pertaining to all levels of this proposition. For this software to
+show its true Value, a lot of collaboration would be in order.
+
+As these institutions themselves are modules running on this platform,
+the may see the benefit in actively developing the code base on which
+they function.
+*** [[https://duke.edu/][Duke University]]
+**** [[https://math.duke.edu/][Department of Mathematics]]
+**** [[https://philosophy.duke.edu/][Department of Philosophy]]
+**** [[https://phy.duke.edu/][Department of Physics]]
+**** [[https://www.cs.duke.edu/][Duke Computer Science]]
+**** [[https://english.duke.edu/][Duke English Department]]
+**** [[https://polisci.duke.edu/][Duke University Political Science]]
+*** [[https://www.jhu.edu/][Johns Hopkins University]]
+**** [[https://www.bme.jhu.edu/][Department of Biomedical Engineering]]
+**** [[https://english.jhu.edu/][Department of English]]
+**** [[https://philosophy.jhu.edu/][Department of Philosophy]]
+**** [[https://politicalscience.jhu.edu/][Department of Political Science]]
+**** [[https://physics-astronomy.jhu.edu/][Physics & Astronomy]]
+*** [[https://www.uchicago.edu/][The University of Chicago]]
+**** [[https://biologicalsciences.uchicago.edu/][Biological Sciences Division]]
+**** [[https://www.cs.uchicago.edu/][Department of Computer Science]]
+**** [[https://english.uchicago.edu/][Department of English Language and Literature]]
+**** [[https://mathematics.uchicago.edu/][Department of Mathematics]]
+**** [[https://philosophy.uchicago.edu/][Department of Philosophy]]
+**** [[https://political-science.uchicago.edu/][Department of Political Science]]
+**** [[https://physicalsciences.uchicago.edu/][Physical Sciences Division]]
+**** [[https://www.law.uchicago.edu/][The University of Chicago Law School]]
+*** [[https://www.unc.edu/][The University of North Carolina at Chapel Hill]]
+**** [[https://cs.unc.edu/][Department of Computer Science]]
+**** [[https://philosophy.unc.edu/][Department of Philosophy]]
+**** [[https://physics.unc.edu/][Department of Physics and Astronomy]]
+**** [[https://politicalscience.unc.edu/][Department of Political Science]]
+**** [[https://englishcomplit.unc.edu/][UNC English & Comparative Literature]]
+**** [[https://law.unc.edu/][UNC School of Law]]
+* TODO [[https://en.wikipedia.org/wiki/Government][Government]]
 In order to run this software, an interface with all branches of
 government must be established.
 ** TODO [[https://en.wikipedia.org/wiki/Legislature][Legislative]]

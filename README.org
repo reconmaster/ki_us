@@ -5,7 +5,7 @@
 #+OPTIONS: timestamp:t title:t toc:t todo:t |:t
 #+TITLE: The United States of America
 #+AUTHOR: Andrew M Davis, PhD
-#+EMAIL: reconmaster@matrix.org
+#+EMAIL: @reconmaster:matrix.org
 #+LANGUAGE: en
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport

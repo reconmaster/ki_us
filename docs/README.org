@@ -5,7 +5,7 @@
 #+OPTIONS: timestamp:t title:t toc:t todo:t |:t
 #+TITLE: documentation
 #+AUTHOR: Andrew M Davis, PhD
-#+EMAIL: reconmaster@matrix.org
+#+EMAIL: @reconmaster:matrix.org
 #+LANGUAGE: en
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
@@ -17,3 +17,9 @@ Documentation is critical to ensure our research methodology is
 completely transparent and understandable to those that consume it.
 Without a clear explanation of our procedures, the [[../results/README.org][results]] themselves
 are meaningless.
+* Government
+In its current iteration, this software depends on external modules.
+** [[https://www.archives.gov/][National Archives]]
+Home of the founding documents.
+** [[https://www.congress.gov/public-laws/][Public Laws]]
+Currently running routines.
