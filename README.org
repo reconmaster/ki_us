@@ -52,3 +52,27 @@ Therefore, it may behoove a country such as the USA to deploy modern
 code-development technology to its own source code. In democratizing
 the design of the country's [[https://en.wikipedia.org/wiki/Operating_system][operating system (OS)]], a new version of a
 more perfect Union may arise.
+* Methods
+For a [[https://en.wikipedia.org/wiki/Life][living]] entity to thrive, it must poses the ability to [[https://en.wikipedia.org/wiki/Evolution][evolve]].
+
+Though our founding documents were state of the art at the time of
+their conception, they were limited to the technology of the time.
+Modern [[https://en.wikipedia.org/wiki/Text_(literary_theory)][text]] technology has the potential to turn our country's source
+code into living documents with all the powerful ramifications that
+entails.
+
+In the current permutation of our country's code, the bootstrapping
+routines are encased in a shrine at the [[https://www.archives.gov/][National Archives]]. While these
+documents are great artifacts, we should be careful that we do not
+descend into [[https://en.wikipedia.org/wiki/Idolatry][idolatry]].
+
+Language, like knowledge, is constantly in flux. Our approximation of
+an equal society should not be limited to the sub-dimension of Freedom
+as seen by our founding parents. Nor should we constrain our future
+fellow Americans with a definition of free that is sub-optimal.
+
+If we can't modernize our country's source code, we are ill equipped
+for [[https://en.wikipedia.org/wiki/Artificial_intelligence][artificial intelligence]].
+
+A cursory introduction for overcoming the technology barrier to this
+software can be found at this [[https://github.com/reconmaster/ki_repo][sub objective]].
