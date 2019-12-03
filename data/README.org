@@ -16,3 +16,13 @@ Objective: [[https://en.wikipedia.org/wiki/Data][data]]
 Data is the information feedback reality gives us in our research
 endeavors. To obtain any signal in the noise, careful collection and
 organization must be performed to aide in subsequent [[../analysis/README.org][analysis]].
+* Periodicals
+Here are some input streams of data samples regarding the state of the
+Union.
+** [[https://www.theatlantic.com/][The Atlantic]]
+*** [[https://www.theatlantic.com/magazine/archive/2019/08/raj-chettys-american-dream/592804/][Raj Chetty's American Dream]]
+** [[https://www.economist.com/united-states/][The Economist]]
+* Github
+** [[https://github.com/invinst/chicago-police-data][chicago-police-data]]
+* Government
+** [[https://www.census.gov/][Census]]
