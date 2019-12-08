@@ -29,13 +29,18 @@ Let's not forget that the [[https://en.wikipedia.org/wiki/Bootstrapping][bootstr
 The use of git in governance has already been anticipated.
 *** [[https://blog.abevoelker.com/gitlaw-github-for-laws-and-legal-documents-a-tourniquet-for-american-liberty/][GitLaw]]
  Some good insight.
+*** [[https://gitlab.com/ccao-data-science---modeling][Cook County Assessors Office]]
+*** [[https://mymadison.io/][Madison]]
 *** [[https://github.com/nysenate/OpenLegislation][OpenLegislation]]
  An effort by the NY Senate to improves legislative transparency.
+*** [[https://github.com/JesseKPhillips/USA-Constitution][USA-Constitution]]
 *** [[https://github.com/divegeek/utahcode][utahcode]]
  The complete Utah Code.
 ** Videos
 *** [[https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government#t-1084351][Clay Shirky - How the Internet will (one day) transform government]]
  A good description of how version control can help improve governance.
+*** [[https://www.youtube.com/watch?v=K8ROmhwphMg&feature=youtu.be][Cook County Assessor's office uses GitLab to reach a new level of transparency in local government]]
+*** [[https://www.ted.com/playlists/13/open_source_open_world][Open-source, open world]]
 * TODO [[https://en.wikipedia.org/wiki/Education][Education]]
 #+begin_quote
 Only the educated are free.
