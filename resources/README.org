@@ -66,22 +66,25 @@ they function.
 * TODO [[https://en.wikipedia.org/wiki/Government][Government]]
 In order to run this software, an interface with all branches of
 government must be established.
-** TODO [[https://en.wikipedia.org/wiki/Legislature][Legislative]]
-   :PROPERTIES:
-   :ID:       4fbf9294-cc35-473d-8a84-a73d495fb254
-   :END:
-It will be necessary to convince legislators that it is in the best
-interest of their [[https://en.wikipedia.org/wiki/Electoral_district][constituency]] to adopt good coding practices.
-Utilizing the version control features alone would improve
-transparency and accountability in the writing of [[https://en.wikipedia.org/wiki/Law][laws]].
-*** NEXT [[https://www.senate.gov/index.htm][Senate]]
-*** NEXT [[https://www.house.gov/][House of Representatives]]
-** TODO [[https://en.wikipedia.org/wiki/Judiciary][Judicial]]
-As this branch is tasked with deciding the constitutionality of the
-laws, they would be in charge of deciding the constitutionality of
-each version release.
-*** NEXT [[https://www.supremecourt.gov/][Supreme Court]]
-** TODO [[https://en.wikipedia.org/wiki/Executive_(government)][Executive]]
-Given this branch enforces the law, it would be in charge of launching
-the versions of the code that are [[https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work][signed]] by [[id:4fbf9294-cc35-473d-8a84-a73d495fb254][congress]].
-*** NEXT [[https://www.whitehouse.gov/][President]]
+** federal
+*** TODO [[https://en.wikipedia.org/wiki/Legislature][Legislative]]
+    :PROPERTIES:
+    :ID:       4fbf9294-cc35-473d-8a84-a73d495fb254
+    :END:
+ It will be necessary to convince legislators that it is in the best
+ interest of their [[https://en.wikipedia.org/wiki/Electoral_district][constituency]] to adopt good coding practices.
+ Utilizing the version control features alone would improve
+ transparency and accountability in the writing of [[https://en.wikipedia.org/wiki/Law][laws]].
+**** NEXT [[https://www.senate.gov/index.htm][Senate]]
+**** NEXT [[https://www.house.gov/][House of Representatives]]
+*** TODO [[https://en.wikipedia.org/wiki/Judiciary][Judicial]]
+ As this branch is tasked with deciding the constitutionality of the
+ laws, they would be in charge of deciding the constitutionality of
+ each version release.
+**** NEXT [[https://www.supremecourt.gov/][Supreme Court]]
+*** TODO [[https://en.wikipedia.org/wiki/Executive_(government)][Executive]]
+ Given this branch enforces the law, it would be in charge of launching
+ the versions of the code that are [[https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work][signed]] by [[id:4fbf9294-cc35-473d-8a84-a73d495fb254][congress]].
+**** NEXT [[https://www.whitehouse.gov/][President]]
+** state
+*** [[https://ogag.dc.gov/][DC - Open Government Advisory Group]]
